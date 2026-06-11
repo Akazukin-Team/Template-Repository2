@@ -15,7 +15,7 @@ gradle-versions = "0.52.0"
 jmh-pl = "0.7.3"
 doma-compile = "4.0.3"
 doma-codegen = "3.2.1"
-graalvm = "0.11.5"
+graalvm = "1.1.2"
 runTask = "2.2.3"
 
 
